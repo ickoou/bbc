@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: myu
+  name: bbc
 spec:
   replicas: 1
   selector:
